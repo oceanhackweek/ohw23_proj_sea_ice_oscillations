@@ -25,6 +25,9 @@ dependencies:
   - netcdf4
   - h5netcdf
   - h5py
+  - xesmf
+  - esmf=8.2.0
+  - esmpy=8.2.0
   - pip
   - pip:
       - flowpy
