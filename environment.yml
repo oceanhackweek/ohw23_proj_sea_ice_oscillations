@@ -1,0 +1,30 @@
+name: sea-ice-oscillations
+channels:
+  - conda-forge
+dependencies:
+  - ipykernel
+  - xarray
+  - cf_xarray
+  - xarray-datatree
+  - satpy
+  - sentinelsat
+  # - opticalflow
+  - py-opencv
+  - openpiv
+  - scikit-image
+  - matplotlib-base
+  - earthaccess
+  - hvplot
+  - geoviews
+  - descartes
+  - pandas
+  - cartopy
+  - fiona
+  - shapely
+  - geopandas
+  - netcdf4
+  - h5netcdf
+  - h5py
+  - pip
+  - pip:
+      - flowpy
