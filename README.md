@@ -28,8 +28,10 @@ In the future, this method could be extended from this prototype event to study 
 To contribute to this project, create a fork, make your changes, and submit a pull request
 
 ## Team Members
-Laura Crews
-Colin Sauze
-Dalton KS
-Alex Kearney
-Myranda Shirk
+Laura Crews \
+Colin Sauze \
+Dalton KS \
+Michael Cappola \ 
+Aditya Sharma \
+Alex Kearney \
+Myranda Shirk \
