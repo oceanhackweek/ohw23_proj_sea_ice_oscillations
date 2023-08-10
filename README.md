@@ -1,5 +1,5 @@
 # Motivation
-Storms can generate energetic currents in the ocean mixed later that oscillate at the local inertial frequency. These inertial oscillations can futher generate internal waves in the stratified ocean interior, contributing to ocean mixing. Therefore, inertial osccillations are an important link between the atmosphere and the deep ocean. 
+Storms can generate energetic currents in the ocean mixed later that oscillate at the local inertial frequency. These inertial oscillations can futher generate internal waves in the stratified ocean interior, contributing to ocean mixing. Therefore, inertial oscillations are an important link between the atmosphere and the deep ocean. 
 
 In the data-sparse Arctic, collecting ocean velocity measurements is difficult and expensive. In the marginal ice zone, sea ice can act as a tracer of the underlying ocean currents. Thus, by tracking ice floes through multiple satellite images, we can potentially measure ocean currents from space. 
 
