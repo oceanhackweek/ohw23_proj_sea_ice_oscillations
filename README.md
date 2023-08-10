@@ -31,7 +31,7 @@ To contribute to this project, create a fork, make your changes, and submit a pu
 Laura Crews \
 Colin Sauze \
 Dalton KS \
-Michael Cappola \ 
+Michael Cappola \
 Aditya Sharma \
 Alex Kearney \
-Myranda Shirk \
+Myranda Shirk 
