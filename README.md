@@ -1,7 +1,16 @@
+# ohw23_proj_sea_ice_oscillations
+
+# Sea Ice Oscillations
+This repo is for the OHW23 marginal ice zone inertial oscillations project
+
+## Background
+
 # Motivation
-Storms can generate energetic currents in the ocean mixed later that oscillate at the local inertial frequency. These inertial oscillations can futher generate internal waves in the stratified ocean interior, contributing to ocean mixing. Therefore, inertial osccillations are an important link between the atmosphere and the deep ocean. 
+Storms can generate energetic currents in the ocean mixed later that oscillate at the local inertial frequency. These inertial oscillations can futher generate internal waves in the stratified ocean interior, contributing to ocean mixing. Therefore, inertial oscillations are an important link between the atmosphere and the deep ocean. 
 
 In the data-sparse Arctic, collecting ocean velocity measurements is difficult and expensive. In the marginal ice zone, sea ice can act as a tracer of the underlying ocean currents. Thus, by tracking ice floes through multiple satellite images, we can potentially measure ocean currents from space. 
+
+# Datasets
 
 ## Satellite Data
 We use data from the [VIIRS instruments](https://lpdaac.usgs.gov/data/get-started-data/collection-overview/missions/s-npp-nasa-viirs-overview/) installed on the [Joint Polar Satellite System](https://www.nesdis.noaa.gov/our-satellites/currently-flying/joint-polar-satellite-system). These satelllites' pole-to-pole orbits result in multiple images per day in the Arctic. This dense temporal sampling is neecssary to resolve inertial currents, which have periods of just over 12 hours in this region.
@@ -24,12 +33,25 @@ In the future, this method could be extended from this prototype event to study 
 - [OpenCV and Optical Flow](https://docs.opencv.org/3.4/d4/dee/tutorial_optical_flow.html)
 - [Scikit-image and Optical Flow](https://scikit-image.org/docs/stable/auto_examples/registration/plot_opticalflow.html)
  
+
+## Workflow/Roadmap
+
+1. General protocol for accessing data
+2. Create an optimal “image” for tracking
+3. Reproject all images from swath coordinates to a common lat/lon grid
+4. Import images to OpenCV
+5. Track ice floes
+
 ## Contributing
 To contribute to this project, create a fork, make your changes, and submit a pull request
 
 ## Team Members
-Laura Crews
-Colin Sauze
-Dalton KS
-Alex Kearney
-Myranda Shirk
+- Laura Crews  
+- Colin Sauze  
+- Dalton KS  
+- Alex Kearney  
+- Myranda Shirk  
+- [Aditya Sharma](https://github.com/Aditya9907)  
+- Michael Cappola  
+
+## References 
